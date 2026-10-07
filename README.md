@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Vishvajeet Shukla</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Vishvajeet%20Shukla&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Jaipur%2C%20India&descSize=18&descAlignY=58" alt="Vishvajeet Shukla, Full Stack Developer" width="100%" />
+</p>
 
 <p align="center">
-  <b>Full Stack Developer</b> · React · Next.js · Node.js · TypeScript · Jaipur, India
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&height=40&lines=Full%20Stack%20Developer%20at%20Maitrii%20Infotech%20Solutions;React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript;MERN%20%C2%B7%20Redis%20%C2%B7%20AWS%20%28EC2%2C%20S3%2C%20SES%29%20%C2%B7%20Docker;Built%20an%20HRMS%20%26%20Payroll%20platform%20largely%20solo;Open%20to%20full-time%20Full%20Stack%20roles" alt="Full Stack Developer | React, Next.js, Node.js, TypeScript | Open to work" />
 </p>
 
 <p align="center">
@@ -63,7 +65,6 @@
 |---|---|---|---|
 | **TermKode** | Open-source coding agent for the terminal. It reads and edits code and runs commands, with an approval step before every write and checkpoints you can rewind. Works with many AI providers or a local model. | TypeScript, Bun, React (OpenTUI), Vercel AI SDK, Hono | [Repo](https://github.com/vishvajeet2012/TermKode) · [Website](https://web-mu-khaki-10.vercel.app) |
 | **FocusIsland** | Offline-first desktop productivity "island" for Windows and macOS: tasks, focus timers, notes, reminders and 7-day insights. | Tauri 2, Rust, Svelte 5, SQLite | [Repo](https://github.com/vishvajeet2012/FocusIsland) · [Download](https://github.com/vishvajeet2012/FocusIsland/releases/latest) |
-| **JS Compiler + JS Play** | Electron desktop app for writing, running and saving JavaScript offline, plus a Next.js website, browser playground, Express licensing API and admin panel. | Electron, SQLite, Next.js, Express, MongoDB, AWS S3 | [Repo](https://github.com/vishvajeet2012/JavaScript-compiler) · [Live](https://jsplay-kappa.vercel.app) |
 | **TestMarks** | School test and marks management: React Native app plus a REST API with admin, teacher and student roles, marks approval, rankings, analytics and push notifications. | React Native (Expo), Redux Toolkit, Express, TypeScript, Prisma, PostgreSQL, FCM | [App](https://github.com/vishvajeet2012/Testmarks-Native) · [API](https://github.com/vishvajeet2012/serversql) |
 | **Dynamic Store** | Full MERN e-commerce store with an admin-managed storefront, cart, wishlist, Stripe payments, orders and OTP email sign-up. | React, Redux Toolkit, Node.js, Express, MongoDB, Stripe, Cloudinary | [Repo](https://github.com/vishvajeet2012/Dynamic) · [Live](https://dynamicvstore.vercel.app) |
 
@@ -77,9 +78,21 @@
   <img src="https://streak-stats.demolab.com/?user=vishvajeet2012&hide_border=true" alt="GitHub streak" />
 </p>
 
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishvajeet2012/vishvajeet2012/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishvajeet2012/vishvajeet2012/output/github-snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/vishvajeet2012/vishvajeet2012/output/github-snake.svg" />
+</picture>
+
 ## Open to opportunities
 
 I'm open to **full-time Full Stack, React or Next.js developer roles** in Jaipur, Ahmedabad, Indore or Bhopal, or remote.
 The fastest way to reach me is [email](mailto:vishvajeet4711@gmail.com) or [LinkedIn](https://linkedin.com/in/vishvajeet-shukla).
 
 **Certifications:** MERN Stack Developer (Global IT Providers) · Claude 101 (credential `mcazm6azbu9a`)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=110&section=footer&animation=twinkling" alt="" width="100%" />
+</p>
