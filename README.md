@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Vishvajeet%20Shukla&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Jaipur%2C%20India&descSize=18&descAlignY=58" alt="Vishvajeet Shukla, Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/vishvajeet2012/vishvajeet2012/main/assets/header.svg" alt="Vishvajeet Shukla, Full Stack Developer: React, Next.js, Node.js, TypeScript. Open to full-time roles." width="100%" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## What I'm working on
 
-- **Enterprise HRMS & Payroll platform** (built largely solo): attendance, geofencing, live location tracking, payroll, and a React Native employee app published on the Play Store.
+- **[Enterprise HRMS & Payroll platform](https://www.fundflick.in/features/hrms)** (built largely solo): attendance, geofencing, live location tracking, payroll, and a React Native employee app published on the Play Store.
   - Introduced **Redis caching**, which made APIs **~50% faster** and email processing **~45% faster**.
 - **WhatsApp Business AI chatbot** using retrieval-augmented generation (RAG).
 - **Client websites:** [Acharya Krishnakant](https://www.acharyakrishnakant.com/en), Lamsor Exports (Next.js, TypeScript, MongoDB, Cloudinary), and Peckers Chicken, UK (Next.js + Sanity CMS).
@@ -63,10 +63,10 @@
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
+| **ShipOwn** | Desktop control centre for deploying Node, static and Docker apps to your own Linux servers over SSH: pick a repo and branch, get a live HTTPS URL, with health checks and one-click rollback. | Electron, SSH, PM2, Nginx, Certbot, Docker | [Website](https://shipown.com) |
 | **TermKode** | Open-source coding agent for the terminal. It reads and edits code and runs commands, with an approval step before every write and checkpoints you can rewind. Works with many AI providers or a local model. | TypeScript, Bun, React (OpenTUI), Vercel AI SDK, Hono | [Repo](https://github.com/vishvajeet2012/TermKode) · [Website](https://web-mu-khaki-10.vercel.app) |
 | **FocusIsland** | Offline-first desktop productivity "island" for Windows and macOS: tasks, focus timers, notes, reminders and 7-day insights. | Tauri 2, Rust, Svelte 5, SQLite | [Repo](https://github.com/vishvajeet2012/FocusIsland) · [Download](https://github.com/vishvajeet2012/FocusIsland/releases/latest) |
 | **TestMarks** | School test and marks management: React Native app plus a REST API with admin, teacher and student roles, marks approval, rankings, analytics and push notifications. | React Native (Expo), Redux Toolkit, Express, TypeScript, Prisma, PostgreSQL, FCM | [App](https://github.com/vishvajeet2012/Testmarks-Native) · [API](https://github.com/vishvajeet2012/serversql) |
-| **Dynamic Store** | Full MERN e-commerce store with an admin-managed storefront, cart, wishlist, Stripe payments, orders and OTP email sign-up. | React, Redux Toolkit, Node.js, Express, MongoDB, Stripe, Cloudinary | [Repo](https://github.com/vishvajeet2012/Dynamic) · [Live](https://dynamicvstore.vercel.app) |
 
 ## GitHub stats
 
@@ -94,5 +94,5 @@ The fastest way to reach me is [email](mailto:vishvajeet4711@gmail.com) or [Link
 **Certifications:** MERN Stack Developer (Global IT Providers) · Claude 101 (credential `mcazm6azbu9a`)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=110&section=footer&animation=twinkling" alt="" width="100%" />
+  <a href="https://www.vishvajeetshukla.in"><img src="https://raw.githubusercontent.com/vishvajeet2012/vishvajeet2012/main/assets/footer.svg" alt="Thanks for stopping by: vishvajeetshukla.in" width="100%" /></a>
 </p>
