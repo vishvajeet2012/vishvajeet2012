@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishvajeet2012/vishvajeet2012/main/assets/header.svg" alt="Vishvajeet Shukla, Full Stack Developer: React, Next.js, Node.js, TypeScript. Open to full-time roles." width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Vishvajeet%20Shukla&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Jaipur%2C%20India&descSize=18&descAlignY=58" alt="Vishvajeet Shukla, Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -94,5 +94,5 @@ The fastest way to reach me is [email](mailto:vishvajeet4711@gmail.com) or [Link
 **Certifications:** MERN Stack Developer (Global IT Providers) · Claude 101 (credential `mcazm6azbu9a`)
 
 <p align="center">
-  <a href="https://www.vishvajeetshukla.in"><img src="https://raw.githubusercontent.com/vishvajeet2012/vishvajeet2012/main/assets/footer.svg" alt="Thanks for stopping by: vishvajeetshukla.in" width="100%" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=110&section=footer&animation=twinkling" alt="" width="100%" />
 </p>
